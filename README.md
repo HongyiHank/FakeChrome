@@ -1,4 +1,8 @@
 # FakeChrome
+此軟體使用Bat To Exe Converter將bat文件轉換為exe文件
+
+此軟體還有許多可更改內容，若想自己更改內容，可編輯bat文件，然後使用Bat To Exe Converter轉換為exe文件(若只是想更改icon圖示，可用Resource Hacker，更改起來會較為方便)
+
 此軟體僅供Winsows系統使用；Linux、Mac OS及其他系統均不考慮推出
 
 此軟體僅供惡整朋友或是個人使用，請勿用於非法用途，本人不會承擔任何法律責任
@@ -9,4 +13,12 @@
 # 預計於下個版本中推出的內容
 目前1.0版本僅會更改桌面上的連結，並不會更改工作列及開始視窗的連結
 
-後續可能會推出Edge及FireFox版
+後續可能會推出Edge及FireFox版(會放在其他倉庫)
+# 倉庫內容說明(bat文件對應的exe文件)
+FakeChrome.bat→FakeChrome.exe
+
+key.bat→key.exe
+
+shutdown.bat→Google Chrome.exe
+
+Google_Chrome_icon.ico為Chrome瀏覽器的ico圖示
