@@ -1,7 +1,7 @@
 # FakeChrome
 此軟體使用Bat To Exe Converter將bat文件轉換為exe文件
 
-此軟體還有許多可更改內容，若想自己更改內容，可編輯bat文件，然後使用Bat To Exe Converter轉換為exe文件(若只是想更改icon圖示，可用Resource Hacker，更改起來會較為方便)
+此軟體還有許多可以修改的內容，若想自己更改內容，可編輯bat文件，然後使用Bat To Exe Converter轉換為exe文件(若只是想更改icon圖示，可用Resource Hacker，更改起來會較為方便)
 
 此軟體僅供Winsows系統使用；Linux、Mac OS及其他系統均不考慮推出
 
