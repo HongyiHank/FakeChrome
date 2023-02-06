@@ -1,4 +1,4 @@
-[📢English version of the readme file]([https://github.com/AaronFeng753/Waifu2x-Extension-GUI/blob/master/README.md)
+###　[📢English version of the readme file]([https://github.com/AaronFeng753/Waifu2x-Extension-GUI/blob/master/README.md)
 # FakeChrome
 此軟體使用Bat To Exe Converter將bat文件轉換為exe文件
 
