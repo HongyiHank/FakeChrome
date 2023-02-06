@@ -1,4 +1,4 @@
-[English version of the readme file](https://github.com/HongyiHank/FakeChrome/blob/main/README_EN.md "游標顯示")
+[English version of the readme file](https://github.com/HongyiHank/FakeChrome/blob/main/README_EN.md)
 # FakeChrome
 此軟體使用Bat To Exe Converter將bat文件轉換為exe文件
 
